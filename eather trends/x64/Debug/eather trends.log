@@ -1,0 +1,6 @@
+﻿  ExcelFile.cpp
+C:\Users\VR-07\Desktop\статья\eather trends\ExcelFile.h(2,9): fatal error C1083: Не удается открыть файл включение: openxlsx/OpenXLSX.hpp: No such file or directory,
+  main.cpp
+C:\Users\VR-07\Desktop\статья\eather trends\ApproximationPolinom.h(3,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\VR-07\Desktop\статья\eather trends\ExcelFile.h(2,9): fatal error C1083: Не удается открыть файл включение: openxlsx/OpenXLSX.hpp: No such file or directory,
+  Создание кода...
